@@ -1,6 +1,5 @@
 # ExpenseTracker: Datewise Financial Insight
 
-![ExpenseTracker Banner](link_to_banner_image)
 
 Welcome to **ExpenseTracker**, a user-friendly web application built with React.js that helps you effortlessly manage and track your expenses based on specific dates. Gain valuable insights into your spending habits and financial patterns with ease.
 
@@ -39,8 +38,12 @@ Welcome to **ExpenseTracker**, a user-friendly web application built with React.
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1)
-![Screenshot 2](link_to_screenshot_2)
+![Screenshot 1]
+<img width="1227" alt="Screenshot 2023-09-02 at 9 53 40 PM" src="https://github.com/TahirHameed74/ExpenseTracker/assets/33459018/290b5d41-b234-4668-b2dc-a6af2f4c068e">
+
+![Screenshot 2]
+
+<img width="864" alt="Screenshot 2023-09-02 at 9 55 32 PM" src="https://github.com/TahirHameed74/ExpenseTracker/assets/33459018/e8f4085f-cb4c-4e77-9f0e-2f5009c40854">
 
 ## Contributing
 
@@ -51,9 +54,6 @@ We warmly welcome contributions to enhance ExpenseTracker. Feel free to fork thi
 - This project draws inspiration from the necessity of a simple yet effective expense tracking solution.
 - A special shoutout to the vibrant React.js community for their invaluable resources and continuous support.
 
-## License
-
-ExpenseTracker is released under the [MIT License](link_to_license).
 
 ---
 
