@@ -47,7 +47,7 @@ Welcome to **ExpenseTracker**, a user-friendly web application built with React.
 
 ## Contributing
 
-We warmly welcome contributions to enhance ExpenseTracker. Feel free to fork this repository and submit pull requests to suggest new features or address issues.
+I warmly welcome contributions to enhance ExpenseTracker. Feel free to fork this repository and submit pull requests to suggest new features or address issues.
 
 ## Acknowledgments
 
